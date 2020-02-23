@@ -1,2 +1,2 @@
 This is a test.
-Updated at remote side.
+Updated at the remote side.
